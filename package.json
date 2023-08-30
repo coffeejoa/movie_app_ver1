@@ -39,7 +39,7 @@
       "last 1 safari version"
     ]
   },
-  "homepage": "https://coffeejoa.github.io//movie_app_ver1",
+  "homepage": "https://coffeejoa.github.io/movie_app_ver1/",
   "extends": [
     "next",
     "plugin:react/recommended",
